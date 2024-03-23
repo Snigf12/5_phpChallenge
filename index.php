@@ -20,7 +20,7 @@
         <!--This is the form-->
         <div class="form-container">
             <h1>Enter Course Grades</h1>
-            <form class="form" onsubmit="return writeInTable()">
+            <form class="form" onsubmit="return checkFields()">
                 <div class="form-item">
                     <label for="fname">First Name :&nbsp</label>
                     <input type="text" id="fname" placeholder="First Name">
