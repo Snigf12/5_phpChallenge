@@ -32,13 +32,13 @@
                 <div class="form-item">
                     <label for="course">Course Number :&nbsp</label>
                     <select id="course">
-                        <option value="" disabled selected>Select Course</option>
-                        <option value="CNET2050">CNET-2050 Powershell and Enterprise Systems</option>
-                        <option value="CNET2050">CNET-2310 Technology Project</option>
-                        <option value="CNET2220">CNET-2220 Service Based Infrastructure II</option>
-                        <option value="CNET2030">CNET-2030 Web Technologies</option>
-                        <option value="CNET2020">CNET-2020 Email Management</option>
-                        <option value="CNET2011">CNET-2011 Connecting Networks</option>
+                         <option value="" disabled selected>Select Course</option>
+                         <option value="CNET1540">CNET-1540 Server Management</option>
+                         <option value="CNET1545">CNET-1545 Final Project</option>
+                         <option value="CNET1550">CNET-1550 CCNA - Cisco</option>
+                         <option value="CNET1555">CNET-1555 Cybersecurity</option>
+                         <option value="CNET1560">CNET-1560 Email Management</option>
+                         <option value="CNET1565">CNET-1565 Programming</option>
                     </select>
                 </div>
                 <div class="form-item">
